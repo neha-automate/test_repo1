@@ -8,3 +8,5 @@ For more details please visit automate.io
 
 new commit
 
+new wala commit
+
